@@ -1,0 +1,7 @@
+GEOCAMMING:
+inurl:”viewnetcam.com”
+inurl:”view/index.shtml”
+inurl:”axis-cgi/jpg”
+http://www.google.com/search?q=liveapple
+inurl:”ViewerFrame?Mode=”
+inurl:”/LvAppl.htm”
