@@ -1,3 +1,8 @@
+FILES CONTAINING PASSWORDS:
+
+"password.xlsx" ext:xlsx
+ManhNho
+
 GEOCAMMING:
 inurl:”viewnetcam.com”
 inurl:”view/index.shtml”
